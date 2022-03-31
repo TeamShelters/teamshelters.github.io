@@ -80,20 +80,20 @@
     margin-top: 5%;
 }
 .boys{
-    background-image: linear-gradient(to right , #c57be7, #f3d1fa);
+    background-image: linear-gradient(to right ,  #557985, #013c4f);
     padding-top: 1%;
 }
 .boyspg{
-    background-image: linear-gradient(to right , #f3d1fa, #c57be7);
+    background-image: linear-gradient(to right , #013c4f, #557985);
     padding-top: 1%;
 }
 
 .girls{
-    background-image: linear-gradient(to right , #ff98e5, #f5cfe5);
+    background-image: linear-gradient(to right , #557985, #013c4f);
     padding-top: 1%;
 }
 .girlspg{
-    background-image: linear-gradient(to right , #f5cfe5, #ff98e5);
+    background-image: linear-gradient(to right , #013c4f, #557985);
     padding-top: 1%;
 }
 .card {
